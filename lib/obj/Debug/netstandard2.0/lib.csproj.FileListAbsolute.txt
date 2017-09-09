@@ -1,0 +1,8 @@
+/Users/marcelo/Aula/csharp/tdd-csharp/lib/bin/Debug/netstandard2.0/lib.deps.json
+/Users/marcelo/Aula/csharp/tdd-csharp/lib/bin/Debug/netstandard2.0/lib.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/lib/bin/Debug/netstandard2.0/lib.pdb
+/Users/marcelo/Aula/csharp/tdd-csharp/lib/obj/Debug/netstandard2.0/lib.csproj.CoreCompileInputs.cache
+/Users/marcelo/Aula/csharp/tdd-csharp/lib/obj/Debug/netstandard2.0/lib.AssemblyInfoInputs.cache
+/Users/marcelo/Aula/csharp/tdd-csharp/lib/obj/Debug/netstandard2.0/lib.AssemblyInfo.cs
+/Users/marcelo/Aula/csharp/tdd-csharp/lib/obj/Debug/netstandard2.0/lib.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/lib/obj/Debug/netstandard2.0/lib.pdb
