@@ -11,3 +11,5 @@
 /Users/marcelo/Aula/csharp/tdd-csharp/test/obj/Debug/netcoreapp2.0/test.AssemblyInfo.cs
 /Users/marcelo/Aula/csharp/tdd-csharp/test/obj/Debug/netcoreapp2.0/test.dll
 /Users/marcelo/Aula/csharp/tdd-csharp/test/obj/Debug/netcoreapp2.0/test.pdb
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/lib.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/lib.pdb
