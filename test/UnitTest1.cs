@@ -13,5 +13,13 @@ namespace test
             int r = calc.Soma(2,3);
             Assert.Equal(5, r);
         }
+
+        [Fact]
+        public void SomaSemParametros()
+        {
+            Calculadora calc = new Calculadora();
+            int r = calc.Soma();
+            Assert.Equal(0, r);
+        }        
     }
 }
