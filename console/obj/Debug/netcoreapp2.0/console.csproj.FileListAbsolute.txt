@@ -1,0 +1,12 @@
+/Users/marcelo/Aula/csharp/tdd-csharp/console/bin/Debug/netcoreapp2.0/console.deps.json
+/Users/marcelo/Aula/csharp/tdd-csharp/console/bin/Debug/netcoreapp2.0/console.runtimeconfig.json
+/Users/marcelo/Aula/csharp/tdd-csharp/console/bin/Debug/netcoreapp2.0/console.runtimeconfig.dev.json
+/Users/marcelo/Aula/csharp/tdd-csharp/console/bin/Debug/netcoreapp2.0/console.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/console/bin/Debug/netcoreapp2.0/console.pdb
+/Users/marcelo/Aula/csharp/tdd-csharp/console/obj/Debug/netcoreapp2.0/console.csproj.CoreCompileInputs.cache
+/Users/marcelo/Aula/csharp/tdd-csharp/console/obj/Debug/netcoreapp2.0/console.AssemblyInfoInputs.cache
+/Users/marcelo/Aula/csharp/tdd-csharp/console/obj/Debug/netcoreapp2.0/console.AssemblyInfo.cs
+/Users/marcelo/Aula/csharp/tdd-csharp/console/obj/Debug/netcoreapp2.0/console.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/console/obj/Debug/netcoreapp2.0/console.pdb
+/Users/marcelo/Aula/csharp/tdd-csharp/console/bin/Debug/netcoreapp2.0/lib.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/console/bin/Debug/netcoreapp2.0/lib.pdb
