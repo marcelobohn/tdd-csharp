@@ -1,0 +1,13 @@
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/xunit.runner.visualstudio.dotnetcore.testadapter.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/xunit.runner.utility.netstandard15.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/xunit.runner.reporters.netstandard15.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/test.deps.json
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.json
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/test.runtimeconfig.dev.json
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/test.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/test/bin/Debug/netcoreapp2.0/test.pdb
+/Users/marcelo/Aula/csharp/tdd-csharp/test/obj/Debug/netcoreapp2.0/test.csproj.CoreCompileInputs.cache
+/Users/marcelo/Aula/csharp/tdd-csharp/test/obj/Debug/netcoreapp2.0/test.AssemblyInfoInputs.cache
+/Users/marcelo/Aula/csharp/tdd-csharp/test/obj/Debug/netcoreapp2.0/test.AssemblyInfo.cs
+/Users/marcelo/Aula/csharp/tdd-csharp/test/obj/Debug/netcoreapp2.0/test.dll
+/Users/marcelo/Aula/csharp/tdd-csharp/test/obj/Debug/netcoreapp2.0/test.pdb
